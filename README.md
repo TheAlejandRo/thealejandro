@@ -6,7 +6,7 @@ CEO on [TheC0d3](https://twitter.com/thealejandro__)
 
 🧮 Lover of Problems, ⚛️ Quantum Mechanics/Physics, 🌎 Astronomy, and 🧪 Chemistry.  
   
-![](https://komarev.com/ghpvc/?username=sammwyy&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=TheAlejandRo&style=flat&label=Views)
 
 **Contact me on Discord: Sammwy#0001**
 

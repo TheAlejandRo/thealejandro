@@ -2,9 +2,9 @@
 <img align='right' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/zelda.gif' width='20%'>  
 
 # BIO
-CEO on [TheC0d3](https://twitter.com/thealejandro__), [SlickLearn](https://twitter.com/slicklearn) and [Arkflame Network](https://twitter.com/ArkflameNetwork)  
+CEO on [TheC0d3](https://twitter.com/thealejandro__)
 
-🧮 Lover of Mathematics, ⚛️ Quantum Mechanics/Physics, 🌎 Astronomy, and 🧪 Chemistry.  
+🧮 Lover of Problems, ⚛️ Quantum Mechanics/Physics, 🌎 Astronomy, and 🧪 Chemistry.  
   
 ![](https://komarev.com/ghpvc/?username=sammwyy&color=blueviolet)
 

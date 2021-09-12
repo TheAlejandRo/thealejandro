@@ -8,7 +8,7 @@ CEO on [TheC0d3](https://twitter.com/thealejandro__)
   
 ![](https://komarev.com/ghpvc/?username=TheAlejandRo&style=flat&label=Views)
 
-**Contact me on Discord: Sammwy#0001**
+**Contact me on Discord: TheAlejandRo#8437**
 
 <h2 align="center">Projects</h2>
 <p align="center">Take a look at my most outstanding projects.</p>
